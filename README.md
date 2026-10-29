@@ -1,6 +1,6 @@
 # Stash Glass
 
-A calmer dashboard for [stash.maxserv.com](https://stash.maxserv.com/dashboard): views for what needs your attention, filters per project, person and Jira status, muting, a whitelist and blacklist for people, and five themes.
+A calmer dashboard for [stash.maxserv.com](https://stash.maxserv.com/dashboard): views for what needs your attention, filters per project, person, Jira status and review app, muting, a whitelist and blacklist for people, and five themes.
 
 ## Install in Zen or Firefox
 
