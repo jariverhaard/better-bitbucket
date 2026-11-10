@@ -3,9 +3,9 @@
     "stash-glass@maxserv.com": {
       "updates": [
         {
-          "version": "1.12.0",
-          "update_link": "https://github.com/jariverhaard/better-bitbucket/releases/download/v1.12.0/better-bitbucket-1.12.0.xpi",
-          "update_hash": "sha256:77d4299e298248af81ae1ae2471912cf2a567cec39a318f8559637b28e050ec5"
+          "version": "1.13.0",
+          "update_link": "https://github.com/jariverhaard/better-bitbucket/releases/download/v1.13.0/better-bitbucket-1.13.0.xpi",
+          "update_hash": "sha256:a64139c8634bc7e11e7c5feda55463ce5a04917465672e8d52470f0396b16324"
         }
       ]
     }
